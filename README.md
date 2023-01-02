@@ -1,6 +1,6 @@
-### Hi everyone! :smile:
+# Hi everyone! :smile:
 ---
-You can call me Fran. I am a telecommunications engineer with a passion for Big Data.
+You can call me Fran. I'm a telecommunications engineer with a passion for Big Data.
 I like to be always up to date about what are the new technologies within the sector, so I try to renew myself continuously, without losing sight of the fundamentals.
 
 ## Connect with Me :mailbox:
