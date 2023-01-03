@@ -1,7 +1,12 @@
 # Hi everyone! :smile:
----
 You can call me Fran. I'm a telecommunications engineer with a passion for Big Data.
 I like to be always up to date about what are the new technologies within the sector, so I try to renew myself continuously, without losing sight of the fundamentals.
+
+## Skills :muscle::muscle:
+- **Data Processing and Analytics:** Spark with Scala
+- **Version control:** Git
+- **Continuous integration:** Jenkins
+- **Issue tracking:** Jira
 
 ## Connect with Me :mailbox:
 
