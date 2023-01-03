@@ -3,11 +3,11 @@ You can call me Fran. I'm a telecommunications engineer with a passion for Big D
 I like to be always up to date about what are the new technologies within the sector, so I try to renew myself continuously, without losing sight of the fundamentals.
 
 ## Skills :muscle::muscle:
-- **Data Processing and Analytics:** Spark with Scala
+- **Data Processing and Analytics:** Spark with Scala in Cloudera, Databicks, Amazon EMR
+- - **Issue tracking:** Jira
 - **Project management:** Scrum
 - **Version control:** Git
 - **Continuous integration:** Jenkins
-- **Issue tracking:** Jira
 
 ## Connect with Me :mailbox:
 
