@@ -4,8 +4,8 @@ I like to be always up to date about what are the new technologies within the se
 
 ## Skills :muscle::muscle:
 - **Data Processing and Analytics:** Spark with Scala in Cloudera, Databicks, Amazon EMR
-- - **Issue tracking:** Jira
 - **Project management:** Scrum
+- **Issue tracking:** Jira
 - **Version control:** Git
 - **Continuous integration:** Jenkins
 
