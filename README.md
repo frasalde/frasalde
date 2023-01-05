@@ -6,7 +6,7 @@ I like to be always up to date about what are the new technologies within the se
 - **Data Processing and Analytics:** Spark with Scala in Cloudera, Databicks, Amazon EMR
 - **Project management:** Scrum
 - **Issue tracking:** Jira
-- **Version control:** Git
+- **Version control:** Git, GitHub, Bitbucket
 - **Continuous integration:** Jenkins
 
 ## Connect with Me :mailbox:
